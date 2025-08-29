@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/language-acquisition/mit24_904_s22_lec24.pdf
+file: /ol-ocw-studio-app/courses/24-904-language-acquisition-spring-2022/mit24_904_s22_lec24.pdf
 file_size: 1353802
 file_type: application/pdf
 image_metadata:
